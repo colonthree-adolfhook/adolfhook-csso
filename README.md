@@ -1,7 +1,7 @@
 # AdolfHook
 A training software made for CSSO.
 
-The entire thing is pasted (shoutouts icey for a lot of the code, lysm <3) and was made for personal use before I made it public.
+The entire thing is pasted (shoutouts icey for all of the code pretty much, lysm <3) and was made for personal use before I made it public.
 Have fun with this thing.
 
 # Usage
